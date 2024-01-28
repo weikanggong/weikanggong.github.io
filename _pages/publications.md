@@ -26,7 +26,7 @@ Peng H, **Gong W**, Beckmann C F, et al. Accurate brain age prediction with ligh
 Key Publications: Neuroscience
 ======
 
-**Gong W**, Fu Y, Wu BS, et al. Whole-Exome Sequencing Identifies Protein-Coding Variants Associated with Brain Iron in 30,620 Individuals[J]. Nature Human Behaviour, 2024, Under revision.
+**Gong W**, Fu Y, Wu BS, et al. Whole-Exome Sequencing Identifies Protein-Coding Variants Associated with Brain Iron in 30,620 Individuals[J]. Nature Human Behaviour, 2024. (Under revision)
 
 **Gong W**, Rolls E T, Du J, et al. Brain structure is linked to the association between family environment and behavioral problems in children in the ABCD study[J]. Nature Communications, 2021, 12(1): 3769.
 
