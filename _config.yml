@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Weikang Gong"
   avatar           : "profile.png"
-  bio              : "Young Principal Investigator, School of Data Science, Fudan University; WIN, University of Oxford"
+  bio              : "Young Principal Investigator, School of Data Science, Fudan University; Visiting Researcher, Wellcome Centre for Integrative Neuroimaging, University of Oxford."
   location         : "zh-CN"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Weikang+Gong%5BAuthor%5D&sort="
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
