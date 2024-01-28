@@ -12,7 +12,7 @@ I am a Young Principal Investigator at School of Data Science, Fudan University.
 
 Research Interests
 ======
-I am looking for self-motivated PhD students and Postdocs to do research on multimodal biomedical data analysis and methodology developments for deep learning. Feel free contact me through email.
+I am looking for self-motivated PhD students and Postdocs to do research on multimodal biomedical data analysis and methodology developments for deep learning. Feel free to contact me through email.
 
 Contact me:
 ======
