@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Methodology:
+<font size=5>Methodology:
 ======
 
 **Gong W**, Bai S, Zheng Y Q, et al. Supervised phenotype discovery from multimodal brain imaging[J]. IEEE Transactions on Medical Imaging, 2022, 42(3): 834-849.
@@ -22,7 +22,7 @@ Peng H, **Gong W**, Beckmann C F, et al. Accurate brain age prediction with ligh
 
 **Gong W**, Zhao R, Grünewald S. Structured sparse K-means clustering via Laplacian smoothing[J]. Pattern Recognition Letters, 2018, 112: 63-69.
 
-Neuroscience:
+<font size=5>Neuroscience:
 ======
 
 **Gong W**, Fu Y, Wu BS, et al. Whole-Exome Sequencing Identifies Protein-Coding Variants Associated with Brain Iron in 30,620 Individuals[J]. Nature Human Behaviour, 2024, Under revision.
