@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Weikang Gong"
+title                    : "HomePage"
 title_separator          : "-"
 name                     : &name "Weikang Gong"
 description              : &description "personal description"
