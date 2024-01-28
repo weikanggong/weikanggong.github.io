@@ -7,6 +7,7 @@ author_profile: true
 
 Key Publications: Methodology
 ======
+**Gong W**, Beckmann C F, Smith S M. Individualised Prediction of Longitudinal Change in Multimodal Brain Imaging[J]. Imaging Neuroscience, 2024. (Under Revision)
 
 **Gong W**, Bai S, Zheng Y Q, et al. Supervised phenotype discovery from multimodal brain imaging[J]. IEEE Transactions on Medical Imaging, 2022, 42(3): 834-849.
 
