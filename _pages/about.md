@@ -12,4 +12,12 @@ I am a Young Principal Investigator at School of Data Science, Fudan University.
 
 Research Interests
 ======
-Modelling multimodal brain imaging, Large-scale generative model for biomedical data, Application of advanced analysis methods to real clinical problems.
+I am looking for self-motivated PhD students and Postdocs to do research on medical image analysis. Feel free contact me through email.
+
+Contact me:
+======
+Weikang Gong, DPhil, Young Principal Investigator
+School of data science
+Fudan University, 220 Handan Road
+Shanghai 200433, CHINA
+E-mail: weikanggong@fudan.edu.cn or weikang.gong@ndcn.ox.ac.uk 
