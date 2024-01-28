@@ -12,12 +12,12 @@ I am a Young Principal Investigator at School of Data Science, Fudan University.
 
 Research Interests
 ======
-I am looking for self-motivated PhD students and Postdocs to do research on medical image analysis. Feel free contact me through email.
+I am looking for self-motivated PhD students and Postdocs to do research on multimodal biomedical data analysis and methodology developments for deep learning. Feel free contact me through email.
 
 Contact me:
 ======
-Weikang Gong, DPhil, Young Principal Investigator
-School of data science
-Fudan University, 220 Handan Road
-Shanghai 200433, CHINA
-E-mail: weikanggong@fudan.edu.cn or weikang.gong@ndcn.ox.ac.uk 
+Weikang Gong, DPhil, Young Principal Investigator \
+School of data science \
+Fudan University, 220 Handan Road \
+Shanghai 200433, CHINA\ 
+E-mail: weikanggong@fudan.edu.cn or weikang.gong@ndcn.ox.ac.uk \
