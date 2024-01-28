@@ -17,7 +17,7 @@ I am looking for self-motivated PhD students and Postdocs to do research on mult
 Contact me
 ======
 Weikang Gong, DPhil, Young Principal Investigator \
-School of data science \
+School of Data Science \
 Fudan University, 220 Handan Road \
-Shanghai 200433, CHINA \
+Shanghai 200433, China \
 E-mail: weikanggong@fudan.edu.cn or weikang.gong@ndcn.ox.ac.uk
