@@ -7,7 +7,7 @@ author_profile: true
 
 Key Publications: Methodology
 ======
-**Gong W**, Beckmann C F, Smith S M. Individualised Prediction of Longitudinal Change in Multimodal Brain Imaging[J]. Imaging Neuroscience, 2024. (Accepted)
+**Gong W**, Beckmann C F, Smith S M. Individualised Prediction of Longitudinal Change in Multimodal Brain Imaging[J]. Imaging Neuroscience, 2024.
 
 **Gong W**, Bai S, Zheng Y Q, et al. Supervised phenotype discovery from multimodal brain imaging[J]. IEEE Transactions on Medical Imaging, 2022, 42(3): 834-849.
 
@@ -26,7 +26,7 @@ Peng H, **Gong W**, Beckmann C F, et al. Accurate brain age prediction with ligh
 Key Publications: Neuroscience
 ======
 
-**Gong W**, Fu Y, Wu BS, et al. Whole-Exome Sequencing Identifies Protein-Coding Variants Associated with Brain Iron in 30,620 Individuals[J]. Nature Communications, 2024. (Accepted)
+**Gong W**, Fu Y, Wu BS, et al. Whole-Exome Sequencing Identifies Protein-Coding Variants Associated with Brain Iron in 29,828 Individuals[J]. Nature Communications, 2024.
 
 **Gong W**, Rolls E T, Du J, et al. Brain structure is linked to the association between family environment and behavioral problems in children in the ABCD study[J]. Nature Communications, 2021, 12(1): 3769.
 
